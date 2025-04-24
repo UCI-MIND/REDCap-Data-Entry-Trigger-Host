@@ -1,0 +1,51 @@
+[
+    {
+        "name": "dev_trigger_test_instrument",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18",
+        "instrument": "form_2"
+    },
+    {
+        "name": "dev_trigger_test_username",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18",
+        "username": "ptanteater"
+    },
+    {
+        "name": "dev_trigger_test_record_id",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18",
+        "record": "99"
+    },
+    {
+        "name": "dev_trigger_test_survey_respondent",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18",
+        "username": "[survey respondent]",
+        "instrument": "form_1"
+    },
+    {
+        "name": "dev_trigger_test_dag",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18",
+        "dag": "sample_group"
+    },
+    {
+        "name": "dev_trigger_test_event",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18",
+        "event_name": "event_1_arm_1"
+    },
+    {
+        "name": "dev_trigger_test_rpt",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18",
+        "repeat_instance": 1,
+        "repeat_instrument": "repeating_form"
+    },
+    {
+        "name": "dev_trigger_test_proj",
+        "redcap_url": "https://redcap.example.edu/",
+        "project_id": "18"
+    }
+]
